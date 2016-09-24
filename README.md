@@ -1,4 +1,4 @@
-# IO_multiplexing_ThreeProject
+# Select_Poll_Epoll_libevent
 
 	unblockconnect.cpp是非阻塞connect的一种实现方式。		
 	mytalk_client.cpp和mytalk_server_version1.cpp是一个简易的聊天室程序。		
