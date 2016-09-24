@@ -9,3 +9,4 @@
 	聊聊Linux 五种IO模型:http://www.jianshu.com/p/486b0965c296		
 	聊聊IO多路复用之select、poll、epoll详解:http://www.jianshu.com/p/dfd940e7fca2		
 	Linux IO模式及 select、poll、epoll详解:https://segmentfault.com/a/1190000003063859		
+	I/O并发编程总结:https://segmentfault.com/a/1190000004909797
