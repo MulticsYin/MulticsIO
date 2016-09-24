@@ -1,9 +1,10 @@
 # Select_Poll_Epoll_libevent
 
-	unblockconnect.cpp是非阻塞connect的一种实现方式。		
-	mytalk_client.cpp和mytalk_server_version1.cpp是一个简易的聊天室程序。		
-	multi_port.cpp是同时处理TCP请求和UDB请求的回射服务器。		
-	mytalk_server_version2.cpp后续使用共享内存实现的聊天室服务器程序。		
+	unblockconnect.cpp：是非阻塞connect的一种实现方式。		
+	mytalk_client.cpp、mytalk_server_version1.cpp：是一个简易的聊天室程序。		
+	multi_port.cpp：是同时处理TCP请求和UDB请求的回射服务器。		
+	mytalk_server_version2.cpp：后续使用共享内存实现的聊天室服务器程序。		
+	libevent_http.cpp：基于 http 协议的服务器代码。
 参考博客：		
 	聊聊同步、异步、阻塞与非阻塞:http://www.jianshu.com/p/aed6067eeac9		
 	聊聊Linux 五种IO模型:http://www.jianshu.com/p/486b0965c296		
