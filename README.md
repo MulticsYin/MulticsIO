@@ -4,7 +4,8 @@
 	mytalk_client.cpp、mytalk_server_version1.cpp：是一个简易的聊天室程序。		
 	multi_port.cpp：是同时处理TCP请求和UDB请求的回射服务器。		
 	mytalk_server_version2.cpp：后续使用共享内存实现的聊天室服务器程序。		
-	libevent_http.cpp：基于 http 协议的服务器代码。
+	libevent_http.cpp：基于 http 协议的服务器代码。		
+	注：分享自己看过觉得不错的博客，还有学习libevent的两个文件，一个是中文的手册，一个是“传智播客C++学院”的学习资料。		
 参考博客：		
 	聊聊同步、异步、阻塞与非阻塞:http://www.jianshu.com/p/aed6067eeac9		
 	聊聊Linux 五种IO模型:http://www.jianshu.com/p/486b0965c296		
