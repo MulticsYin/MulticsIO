@@ -19,3 +19,8 @@
 * Libevent 官方文档学习笔记（1. libevent_core部分）:https://segmentfault.com/a/1190000005594871		
 * Libevent 官方文档学习笔记（2. bufferevent部分）:https://segmentfault.com/a/1190000005601925		
 * Libevent 官方文档学习笔记（3. evbuffer部分）:https://segmentfault.com/a/1190000005867855
+
+## License
+
+MulticsQQ source code is licensed under the 
+[Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
