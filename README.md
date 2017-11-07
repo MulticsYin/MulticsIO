@@ -1,4 +1,4 @@
-# Select_Poll_Epoll_libevent
+# MulticsIO
 该项目为学习Linux网络编程所编写的一些小程序。
 * unblockconnect.cpp：是非阻塞connect的一种实现方式。		
 * mytalk_client.cpp、mytalk_server_version1.cpp：是一个简易的聊天室程序。		
@@ -22,5 +22,5 @@
 
 ## License
 
-MulticsQQ source code is licensed under the 
+MulticsIO source code is licensed under the 
 [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
